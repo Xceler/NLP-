@@ -1,5 +1,6 @@
 import re 
 import nltk 
+import torch as T
 import pandas as pd 
 from nltk.stem import WordNetLemmatizer 
 from nltk.corpus import stopwords 
